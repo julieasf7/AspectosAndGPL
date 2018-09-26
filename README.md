@@ -1,2 +1,2 @@
-# Prueba implementacion IC
+# Prueba implementacion IC.
 
